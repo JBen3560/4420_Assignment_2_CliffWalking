@@ -1,0 +1,6 @@
+gymnasium>=1.0
+numpy
+matplotlib
+pygame
+imageio
+imageio-ffmpeg
